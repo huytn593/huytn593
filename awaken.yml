@@ -1,0 +1,28 @@
+name: Awaken
+
+on:
+  schedule:
+    - cron: "10 17 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - awaken.json
+
+permissions:
+  contents: write
+
+concurrency:
+  group: awaken
+  cancel-in-progress: true
+
+jobs:
+  awaken:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Git Profile
+        uses: billtruong003/git-profile-awaken@main

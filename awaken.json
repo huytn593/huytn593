@@ -1,0 +1,52 @@
+{
+    "username": "huytn593",
+    "layout": "portfolio",
+    "theme": "shadow_monarch",
+    "title": "auto",
+    "activity": "arise",
+    "icons": "brand",
+    "motion": "calm",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "hours": true,
+    "bio": {
+        "role": "Software Engineering",
+        "focus": "IT / AI / Automation",
+        "location": "Vietnam",
+        "about": "Software Engineering graduate building practical web, automation and AI-assisted applications."
+    },
+    "arsenal": [
+        "Java",
+        "Spring Boot",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Python",
+        "FastAPI",
+        "SQL",
+        "PostgreSQL",
+        "Git",
+        "GitHub",
+        "Docker",
+        "OpenAI"
+    ],
+    "socials": [
+        {
+            "type": "github",
+            "url": "https://github.com/huytn593",
+            "label": "GitHub"
+        },
+        {
+            "type": "website",
+            "url": "https://huytn593.github.io",
+            "label": "Portfolio"
+        }
+    ],
+    "career": [
+        {
+            "role": "Software Engineering / IT",
+            "org": "Huytn593",
+            "years": "2026",
+            "current": true
+        }
+    ]
+}
