@@ -14,11 +14,66 @@ Software Engineering | IT | AI
 </p>
 
 <p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hunter-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hunter-light.svg"><img src="awaken/hunter-dark.svg" width="100%" alt="huytn593: hunter license"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/status-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/status-light.svg"><img src="awaken/status-dark.svg" width="100%" alt="huytn593: status window"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/ladder-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/ladder-light.svg"><img src="awaken/ladder-dark.svg" width="100%" alt="huytn593: rank ladder"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/web-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/web-light.svg"><img src="awaken/web-dark.svg" width="49%" alt="huytn593: stat web"></picture>
+</p>
+
+<p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/arsenal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/arsenal-light.svg"><img src="awaken/arsenal-dark.svg" width="100%" alt="huytn593: arsenal"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/skills-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/skills-light.svg"><img src="awaken/skills-dark.svg" width="49%" alt="huytn593: passive skills"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/activity-light.svg"><img src="awaken/activity-dark.svg" width="100%" alt="huytn593: shadow extraction"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contribution-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contribution-light.svg"><img src="awaken/contribution-dark.svg" width="49%" alt="huytn593: contribution log"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/combat-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/combat-light.svg"><img src="awaken/combat-dark.svg" width="49%" alt="huytn593: combat record"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/hours-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/hours-light.svg"><img src="awaken/hours-dark.svg" width="49%" alt="huytn593: hunting hours"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/achievements-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/achievements-light.svg"><img src="awaken/achievements-dark.svg" width="100%" alt="huytn593: achievements"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/quest-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/quest-light.svg"><img src="awaken/quest-dark.svg" width="49%" alt="huytn593: active quest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="huytn593: daily quest"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/oracle-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/oracle-light.svg"><img src="awaken/oracle-dark.svg" width="49%" alt="huytn593: oracle scroll"></picture>
 </p>
 
 <p align="center">
 <a href="https://github.com/huytn593"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contact-1-github-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contact-1-github-light.svg"><img src="awaken/contact-1-github-dark.svg" width="24%" alt="GitHub: GitHub"></picture></a>
 <a href="https://huytn593.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="awaken/contact-2-website-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/contact-2-website-light.svg"><img src="awaken/contact-2-website-dark.svg" width="24%" alt="Website: Portfolio"></picture></a>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-str-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-str-light.svg"><img src="awaken/rune-str-dark.svg" width="24%" alt="STR: rank B"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-agi-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-agi-light.svg"><img src="awaken/rune-agi-dark.svg" width="24%" alt="AGI: rank A"></picture>
+</p>
+
+<p align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-int-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-int-light.svg"><img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank B"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank S"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-luk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-luk-light.svg"><img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank A"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-cha-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-cha-light.svg"><img src="awaken/rune-cha-dark.svg" width="24%" alt="CHA: rank E"></picture>
 </p>
 <!-- AWAKEN:END -->

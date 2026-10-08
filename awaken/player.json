@@ -2,8 +2,8 @@
   "login": "huytn593",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9079869242123441,
-  "layout": "portfolio",
+  "overallPercentile": 0.9080628220262181,
+  "layout": "custom",
   "class": {
     "name": "Illusionist",
     "element": "Wind",
@@ -13,9 +13,9 @@
   "stats": [
     {
       "code": "STR",
-      "value": 227,
+      "value": 228,
       "rank": "B",
-      "percentile": 0.8375971995457422
+      "percentile": 0.8382918483379954
     },
     {
       "code": "AGI",
@@ -68,7 +68,7 @@
     {
       "id": "relentless",
       "tier": 1,
-      "value": 227
+      "value": 228
     },
     {
       "id": "unbroken",
@@ -192,5 +192,5 @@
     "escapes": 0,
     "kinds": []
   },
-  "syncedAt": "2026-10-08T11:54:43.009Z"
+  "syncedAt": "2026-10-08T11:57:13.360Z"
 }
