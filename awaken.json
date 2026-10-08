@@ -1,11 +1,11 @@
 {
   "username": "huytn593",
-  "layout": "portfolio",
+  "layout": "custom",
   "theme": "shadow_monarch",
   "title": "auto",
   "activity": "arise",
   "icons": "brand",
-  "motion": "calm",
+  "motion": "full",
   "timezone": "Asia/Ho_Chi_Minh",
   "hours": true,
   "bio": {
@@ -49,5 +49,26 @@
       "current": true
     }
   ],
-  "readme": "README.md"
+  "readme": "README.md",
+  "widgets": [
+    "banner",
+    "bio",
+    "career",
+    "hunter",
+    "status",
+    "ladder",
+    "web",
+    "arsenal",
+    "skills",
+    "activity",
+    "contribution",
+    "combat",
+    "hours",
+    "achievements",
+    "quest",
+    "daily",
+    "oracle",
+    "contacts",
+    "runes"
+  ]
 }
