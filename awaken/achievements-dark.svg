@@ -79,7 +79,7 @@
 <use href="#i-sword" x="647.5" y="128" width="20" height="20" fill="#ece6ff"/>
 <text x="687.5" y="130" class="strong" fill="#ece6ff">Relentless</text>
 <path transform="translate(644.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#9d7bff"/><path transform="translate(654.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(664.5 166)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/>
-<text x="687.5" y="149" class="caption" fill="#ece6ff">230 / 1,000</text>
+<text x="687.5" y="149" class="caption" fill="#ece6ff">231 / 1,000</text>
 <text x="687.5" y="165" class="code" fill="#a397c7">COMMITS</text>
 </g>
 <g>
@@ -109,7 +109,7 @@
 <use href="#i-lock" x="445" y="204" width="20" height="20" fill="#a397c7"/>
 <text x="485" y="206" class="strong" fill="#a397c7">Early Bird</text>
 <path transform="translate(442 242)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(452 242)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(462 242)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/>
-<text x="485" y="225" class="caption" fill="#a397c7">11 / 15</text>
+<text x="485" y="225" class="caption" fill="#a397c7">12 / 15</text>
 <text x="485" y="241" class="code" fill="#a397c7">% COMMITS 05–09H</text>
 </g>
 <g class="pulse">
@@ -229,7 +229,7 @@
 <use href="#i-lock" x="445" y="432" width="20" height="20" fill="#a397c7"/>
 <text x="485" y="434" class="strong" fill="#a397c7">Diligent</text>
 <path transform="translate(442 470)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(452 470)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(462 470)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/>
-<text x="485" y="453" class="caption" fill="#a397c7">27 / 50</text>
+<text x="485" y="453" class="caption" fill="#a397c7">28 / 50</text>
 <text x="485" y="469" class="code" fill="#a397c7">ACTIVE DAYS</text>
 </g>
 <g>
@@ -259,7 +259,7 @@
 <use href="#i-lock" x="242.5" y="508" width="20" height="20" fill="#a397c7"/>
 <text x="282.5" y="510" class="strong" fill="#a397c7">Quest Hunter</text>
 <path transform="translate(239.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(249.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(259.5 546)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/>
-<text x="282.5" y="529" class="caption" fill="#a397c7">2 / 50</text>
+<text x="282.5" y="529" class="caption" fill="#a397c7">3 / 50</text>
 <text x="282.5" y="545" class="code" fill="#a397c7">QUESTS CLEARED</text>
 </g>
 <g>
@@ -292,5 +292,5 @@
 <text x="80" y="605" class="caption" fill="#a397c7">2 / 4</text>
 <text x="80" y="621" class="code" fill="#a397c7">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#a397c7" text-anchor="end">@huytn593 · SYNCED 2026-10-08</text>
+<text x="820" y="646" class="code" fill="#a397c7" text-anchor="end">@huytn593 · SYNCED 2026-10-09</text>
 </svg>
