@@ -62,7 +62,7 @@ Software Engineering · IT, AI & Automation · Vietnam · Building practical sof
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/quest-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/quest-light.svg"><img src="awaken/quest-dark.svg" width="49%" alt="huytn593: active quest"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="huytn593: daily quest"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/daily-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/daily-light.svg"><img src="awaken/daily-dark.svg" width="49%" alt="huytn593: penalty zone"></picture>
 </p>
 
 <p align="center">
