@@ -38,6 +38,6 @@
 
 <path d="M18.4 4.8H835.3V121.5L821.5 135.3H4.8V18.4Z" fill="none" stroke="#9484cb" stroke-width="1.5"/>
 <path class="breathe" d="M825 1H839V15M1 125V139H15" fill="none" stroke="#6a45d6" stroke-width="2"/>
-<text x="28" y="28" class="label" fill="#6a45d6">[ SYSTEM NOTIFICATION ]</text><text x="812" y="28" class="code" fill="#5b4e80" text-anchor="end">SESSION 2026-10-16</text>
+<text x="28" y="28" class="label" fill="#6a45d6">[ SYSTEM NOTIFICATION ]</text><text x="812" y="28" class="code" fill="#5b4e80" text-anchor="end">SESSION 2026-10-17</text>
 <clipPath id="bn10"><rect class="bn1t0" x="28" y="40" width="436" height="38"/></clipPath><text x="28" y="64" class="value" fill="#1a1033" style="font-size:24px" clip-path="url(#bn10)">Player huytn593 has logged in.</text><clipPath id="bn11"><rect class="bn1t1" x="28" y="40" width="407.2" height="38"/></clipPath><text x="28" y="64" class="value" fill="#1a1033" style="font-size:24px" clip-path="url(#bn11)">Illusionist · LV. 7 · rank A</text><clipPath id="bn12"><rect class="bn1t2" x="28" y="40" width="234.4" height="38"/></clipPath><text x="28" y="64" class="value" fill="#1a1033" style="font-size:24px" clip-path="url(#bn12)">Main skill: HTML</text><rect class="blink" x="28" y="94" width="10" height="16" fill="#6a45d6"/><text x="48" y="107" class="code" fill="#5b4e80">@huytn593 · LV. 7 · RANK A</text>
 </svg>
