@@ -78,7 +78,7 @@ Software Engineering · IT, AI & Automation · Vietnam · Building practical sof
 
 <p align="center">
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-int-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-int-light.svg"><img src="awaken/rune-int-dark.svg" width="24%" alt="INT: rank B"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank SS"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-vit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-vit-light.svg"><img src="awaken/rune-vit-dark.svg" width="24%" alt="VIT: rank S"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-luk-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-luk-light.svg"><img src="awaken/rune-luk-dark.svg" width="24%" alt="LUK: rank A"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="awaken/rune-cha-dark.svg"><source media="(prefers-color-scheme: light)" srcset="awaken/rune-cha-light.svg"><img src="awaken/rune-cha-dark.svg" width="24%" alt="CHA: rank E"></picture>
 </p>
