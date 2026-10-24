@@ -109,7 +109,7 @@
 <use href="#i-sun" x="445" y="204" width="20" height="20" fill="#ece6ff"/>
 <text x="485" y="206" class="strong" fill="#ece6ff">Early Bird</text>
 <path transform="translate(442 242)" d="M0 3 3 0 6 3 3 6Z" fill="#9d7bff"/><path transform="translate(452 242)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(462 242)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/>
-<text x="485" y="225" class="caption" fill="#ece6ff">19 / 25</text>
+<text x="485" y="225" class="caption" fill="#ece6ff">20 / 25</text>
 <text x="485" y="241" class="code" fill="#a397c7">% COMMITS 05–09H</text>
 </g>
 <g>
@@ -292,5 +292,5 @@
 <text x="80" y="605" class="caption" fill="#ece6ff">4 / 7</text>
 <text x="80" y="621" class="code" fill="#a397c7">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#a397c7" text-anchor="end">@huytn593 · SYNCED 2026-10-23</text>
+<text x="820" y="646" class="code" fill="#a397c7" text-anchor="end">@huytn593 · SYNCED 2026-10-24</text>
 </svg>
