@@ -38,6 +38,6 @@
 
 <path d="M18.4 4.8H835.3V121.5L821.5 135.3H4.8V18.4Z" fill="none" stroke="#65589c" stroke-width="1.5"/>
 <path class="breathe" d="M825 1H839V15M1 125V139H15" fill="none" stroke="#9d7bff" stroke-width="2" filter="url(#glow)"/>
-<text x="28" y="28" class="label" fill="#9d7bff">[ SYSTEM NOTIFICATION ]</text><text x="812" y="28" class="code" fill="#a397c7" text-anchor="end">SESSION 2026-10-26</text>
+<text x="28" y="28" class="label" fill="#9d7bff">[ SYSTEM NOTIFICATION ]</text><text x="812" y="28" class="code" fill="#a397c7" text-anchor="end">SESSION 2026-10-27</text>
 <clipPath id="bn00"><rect class="bn0t0" x="28" y="40" width="436" height="38"/></clipPath><text x="28" y="64" class="value" fill="#ece6ff" style="font-size:24px" clip-path="url(#bn00)">Player huytn593 has logged in.</text><clipPath id="bn01"><rect class="bn0t1" x="28" y="40" width="421.6" height="38"/></clipPath><text x="28" y="64" class="value" fill="#ece6ff" style="font-size:24px" clip-path="url(#bn01)">Blade Master · LV. 7 · rank A</text><clipPath id="bn02"><rect class="bn0t2" x="28" y="40" width="320.8" height="38"/></clipPath><text x="28" y="64" class="value" fill="#ece6ff" style="font-size:24px" clip-path="url(#bn02)">Main skill: JavaScript</text><rect class="blink" x="28" y="94" width="10" height="16" fill="#9d7bff" filter="url(#glow)"/><text x="48" y="107" class="code" fill="#a397c7">@huytn593 · LV. 7 · RANK A</text>
 </svg>
