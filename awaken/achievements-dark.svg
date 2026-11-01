@@ -229,7 +229,7 @@
 <use href="#i-lock" x="445" y="432" width="20" height="20" fill="#a397c7"/>
 <text x="485" y="434" class="strong" fill="#a397c7">Diligent</text>
 <path transform="translate(442 470)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(452 470)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/><path transform="translate(462 470)" d="M0 3 3 0 6 3 3 6Z" fill="#2a253a"/>
-<text x="485" y="453" class="caption" fill="#a397c7">23 / 50</text>
+<text x="485" y="453" class="caption" fill="#a397c7">22 / 50</text>
 <text x="485" y="469" class="code" fill="#a397c7">ACTIVE DAYS</text>
 </g>
 <g>
@@ -292,5 +292,5 @@
 <text x="80" y="605" class="caption" fill="#ece6ff">4 / 7</text>
 <text x="80" y="621" class="code" fill="#a397c7">QUEST KINDS</text>
 </g>
-<text x="820" y="646" class="code" fill="#a397c7" text-anchor="end">@huytn593 · SYNCED 2026-10-31</text>
+<text x="820" y="646" class="code" fill="#a397c7" text-anchor="end">@huytn593 · SYNCED 2026-11-01</text>
 </svg>
