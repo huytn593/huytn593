@@ -2,7 +2,7 @@
   "login": "huytn593",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9065612505315798,
+  "overallPercentile": 0.9051612207005323,
   "layout": "custom",
   "class": {
     "name": "Blade Master",
@@ -31,9 +31,9 @@
     },
     {
       "code": "VIT",
-      "value": 14,
+      "value": 13,
       "rank": "S",
-      "percentile": 0.9762310688639344
+      "percentile": 0.9697425344997549
     },
     {
       "code": "LUK",
@@ -179,6 +179,11 @@
   "quests": {
     "days": [
       {
+        "date": "2026-11-02",
+        "cleared": 0,
+        "total": 3
+      },
+      {
         "date": "2026-11-01",
         "cleared": 0,
         "total": 3
@@ -322,5 +327,5 @@
       "three"
     ]
   },
-  "syncedAt": "2026-11-01T21:06:45.605Z"
+  "syncedAt": "2026-11-02T23:51:05.250Z"
 }
