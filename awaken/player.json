@@ -2,26 +2,26 @@
   "login": "huytn593",
   "level": 7,
   "overall": "A",
-  "overallPercentile": 0.9093735673132335,
+  "overallPercentile": 0.9104377859044986,
   "layout": "custom",
   "class": {
-    "name": "Blade Master",
-    "element": "Lightning",
-    "from": "JavaScript"
+    "name": "Holy Knight",
+    "element": "Light",
+    "from": "C#"
   },
   "title": "Polyglot",
   "stats": [
     {
       "code": "STR",
-      "value": 228,
+      "value": 238,
       "rank": "B",
-      "percentile": 0.8382918483379954
+      "percentile": 0.8449754518995264
     },
     {
       "code": "AGI",
-      "value": 28,
+      "value": 29,
       "rank": "A",
-      "percentile": 0.92219824342563
+      "percentile": 0.9249860635506788
     },
     {
       "code": "INT",
@@ -50,6 +50,20 @@
   ],
   "events": [
     {
+      "kind": "achievement",
+      "subject": "boss-slayer",
+      "from": "0",
+      "to": "1",
+      "at": "2026-11-06T22:00:30.579Z"
+    },
+    {
+      "kind": "achievement",
+      "subject": "collector",
+      "from": "1",
+      "to": "2",
+      "at": "2026-11-06T22:00:30.579Z"
+    },
+    {
       "kind": "stat",
       "subject": "VIT",
       "from": "S",
@@ -75,22 +89,22 @@
     {
       "id": "pull-shark",
       "tier": 2,
-      "value": 26
+      "value": 27
     },
     {
       "id": "quickdraw",
       "tier": 2,
-      "value": 23
+      "value": 24
     },
     {
       "id": "yolo",
       "tier": 2,
-      "value": 26
+      "value": 27
     },
     {
       "id": "relentless",
       "tier": 1,
-      "value": 228
+      "value": 238
     },
     {
       "id": "unbroken",
@@ -100,17 +114,17 @@
     {
       "id": "night-owl",
       "tier": 0,
-      "value": 14
+      "value": 13
     },
     {
       "id": "early-bird",
-      "tier": 1,
-      "value": 15
+      "tier": 0,
+      "value": 14
     },
     {
       "id": "weekend-warrior",
       "tier": 2,
-      "value": 34
+      "value": 32
     },
     {
       "id": "gate-opener",
@@ -165,27 +179,27 @@
     {
       "id": "diligent",
       "tier": 0,
-      "value": 25
+      "value": 26
     },
     {
       "id": "daily-grinder",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "perfect-week",
       "tier": 0,
-      "value": 1
+      "value": 2
     },
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 16
+      "value": 19
     },
     {
       "id": "boss-slayer",
-      "tier": 0,
-      "value": 0
+      "tier": 1,
+      "value": 1
     },
     {
       "id": "escape-artist",
@@ -194,12 +208,17 @@
     },
     {
       "id": "collector",
-      "tier": 1,
-      "value": 5
+      "tier": 2,
+      "value": 7
     }
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-06",
+        "cleared": 3,
+        "total": 3
+      },
       {
         "date": "2026-11-05",
         "cleared": 3,
@@ -351,19 +370,23 @@
         "total": 3
       }
     ],
-    "perfectDays": 1,
-    "run": 1,
-    "bestRun": 1,
-    "questsDone": 16,
-    "bosses": [],
+    "perfectDays": 2,
+    "run": 2,
+    "bestRun": 2,
+    "questsDone": 19,
+    "bosses": [
+      "2026-11-02"
+    ],
     "escapes": 3,
     "kinds": [
       "contribute",
       "commit",
       "average",
       "three",
-      "two-repos"
+      "two-repos",
+      "streak",
+      "mp"
     ]
   },
-  "syncedAt": "2026-11-05T22:38:43.243Z"
+  "syncedAt": "2026-11-06T22:00:30.579Z"
 }
