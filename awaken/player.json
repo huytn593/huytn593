@@ -62,20 +62,6 @@
       "from": "1",
       "to": "2",
       "at": "2026-11-06T22:00:30.579Z"
-    },
-    {
-      "kind": "stat",
-      "subject": "VIT",
-      "from": "S",
-      "to": "SS",
-      "at": "2026-11-05T22:38:43.243Z"
-    },
-    {
-      "kind": "achievement",
-      "subject": "gate-opener",
-      "from": "1",
-      "to": "2",
-      "at": "2026-11-05T22:38:43.243Z"
     }
   ],
   "achievements": [
@@ -187,7 +173,7 @@
     {
       "id": "quest-hunter",
       "tier": 0,
-      "value": 22
+      "value": 23
     },
     {
       "id": "boss-slayer",
@@ -207,6 +193,11 @@
   ],
   "quests": {
     "days": [
+      {
+        "date": "2026-11-12",
+        "cleared": 1,
+        "total": 3
+      },
       {
         "date": "2026-11-11",
         "cleared": 0,
@@ -391,7 +382,7 @@
     "perfectDays": 2,
     "run": 0,
     "bestRun": 2,
-    "questsDone": 22,
+    "questsDone": 23,
     "bosses": [
       "2026-11-02"
     ],
@@ -406,5 +397,5 @@
       "mp"
     ]
   },
-  "syncedAt": "2026-11-11T23:27:25.979Z"
+  "syncedAt": "2026-11-12T22:40:53.713Z"
 }
